@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/kasuraSH/golangresizer/internal/resizer"
-	"github.com/kasuraSH/golangresizer/internal/validator"
-	"github.com/kasuraSH/golangresizer/pkg/imageio"
+	"github.com/kasurarykerion/golangresizer/internal/resizer"
+	"github.com/kasurarykerion/golangresizer/internal/validator"
+	"github.com/kasurarykerion/golangresizer/pkg/imageio"
 )
 
 const (
