@@ -7,8 +7,8 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/kasuraSH/golangresizer/internal/interpolation"
-	"github.com/kasuraSH/golangresizer/internal/validator"
+	"github.com/kasuraSH/kasurarykerion/internal/interpolation"
+	"github.com/kasuraSH/kasurarykerion/internal/validator"
 )
 
 var (
