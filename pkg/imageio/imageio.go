@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/kasuraSH/golangresizer/internal/validator"
+	"github.com/kasurarykerion/golangresizer/internal/validator"
 	"golang.org/x/image/bmp"
 	"golang.org/x/image/tiff"
 	"golang.org/x/image/webp"
